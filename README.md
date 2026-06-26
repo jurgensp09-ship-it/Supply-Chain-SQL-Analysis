@@ -20,6 +20,9 @@ Power BI dashboard.
 - Standard Class shipping accounts for 59.69% of all orders but averages 4 days delivery
 - Consumer segment drives 51.8% of order volume and $19M in sales
 - Late delivery risk flag confirmed as an outcome measure, not a predictive indicator
+  
+- ## Dashboard
+![Supply Chain Dashboard](Supply_Chain_Dashboard.png)
 
 ## Queries
 - [Query 1 — Delivery Performance](Query1_Delivery_Performance.sql)
