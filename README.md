@@ -20,14 +20,17 @@ Power BI dashboard.
 - Standard Class shipping accounts for 59.69% of all orders but averages 4 days delivery
 - Consumer segment drives 51.8% of order volume and $19M in sales
 - Late delivery risk flag confirmed as an outcome measure, not a predictive indicator
-  
-- ## Dashboard
-![Supply Chain Dashboard](Supply_Chain_Dashboard.png)
+
+## Dashboard
+![Supply Chain Dashboard](Screenshots/Supply_Chain_Dashboard.png)
 
 ## Queries
-- [Query 1 — Delivery Performance](Query1_Delivery_Performance.sql)
-- [Query 2 — Profit by Category](Query2_Profit_by_Category.sql)
-- [Query 3 — Shipping Mode Analysis](Query3_Shipping_Mode.sql)
-- [Query 4 — Customer Segment](Query4_Customer_Segment.sql)
-- [Query 5 — Late Delivery Risk](Query5_Late_Delivery_Risk.sql)
-- [Query 6 — Order Status by Region](Query6_Order_Status_Region.sql)
+- [Query 1 — Delivery Performance](Queries/Query1_Delivery_Performance.sql)
+- [Query 2 — Profit by Category](Queries/Query2_Profit_by_Category.sql)
+- [Query 3 — Shipping Mode Analysis](Queries/Query3_Shipping_Mode.sql)
+- [Query 4 — Customer Segment](Queries/Query4_Customer_Segment.sql)
+- [Query 5 — Late Delivery Risk](Queries/Query5_Late_Delivery_Risk.sql)
+- [Query 6 — Order Status by Region](Queries/Query6_Order_Status_Region.sql)
+
+## Power BI File
+- [Download Dashboard (.pbix)](Power%20BI/Supply%20Chain%20Performance%20Dashboard.pbix)
